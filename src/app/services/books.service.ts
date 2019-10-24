@@ -4,15 +4,7 @@ import { Book } from '../interfaces/book.interface';
 
 @Injectable()
 export class BooksService {
-  postBook(newBook: Book): Observable<Book> {
-    return null;
-  }
-
-  putBook(newBook: Book): Observable<Book> {
-    return null;
-  }
-
-  deleteBook(id: number): Observable<Book> {
+  getBookById(id: number): Observable<Book> {
     return null;
   }
 
