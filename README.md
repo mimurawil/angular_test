@@ -36,6 +36,15 @@ For all service calls, add a delay of 3 seconds so I can see there's something l
 
 All data can be stored in the service. I just want to see the CRUD working coherently once the app is running.
 
+
+### Unit Tests (Karma/Jasmine)
+Implement the necessary unit tests scenarios to be tested.
+
+
+### E2E Tests (Protractor)
+Using Protractor (w/ Chrome browser), implement the necessary tests scenarios to be tested.
+
+
 ## Important
 
 Don't forget to lint and build to make sure your code is clean.
